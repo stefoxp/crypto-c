@@ -1,0 +1,19 @@
+c:\
+Inserire un intero (compreso fra 1 e 51): 8
+Nome del file da crittografare = originale.txt
+Nome del file da decrittografare = codificato.txt
+
+c:\
+Inserire un intero (compreso fra 1 e 51): 9
+Nome del file da crittografare = originale.txt
+Nome del file da decrittografare = codificato.txt
+
+c:\
+Inserire un intero (compreso fra 1 e 51): 25
+Nome del file da crittografare = originale.txt
+Nome del file da decrittografare = codificato.txt
+
+c:\
+Inserire un intero (compreso fra 1 e 51): 48
+Nome del file da crittografare = originale.txt
+Nome del file da decrittografare = codificato.txt
